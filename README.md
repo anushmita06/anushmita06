@@ -38,7 +38,7 @@ I am looking for internship experience that will allow me to put my skills to us
 
 ## Project Experience 💡
 ### AI Studio — Upcoming Industry Collaboration Project
-A team-based program where I will collaborate with industry partners to solve real-world business challenges using machine learning. Once paired with a company aligned with my skills and interests, I’ll work on large-scale datasets to train, test, and evaluate predictive models
+A team-based program, as part of Break Through Tech's AI/ML Fellowship, where I will collaborate with industry partners to solve real-world business challenges using machine learning. Once paired with a company aligned with my skills and interests, I’ll work on large-scale datasets to train, test, and evaluate predictive models
 
 ###  [FaunaFlow – Animal Movement Tracking with AI](https://devpost.com/software/faunaflow-building-animal-observer-via-point-tracking)
 Built during the Technica Hackathon, FaunaFlow is a computer vision pipeline designed to detect and visualize animal movement in video footage. Using SAM (Segment Anything Model) and CoTracker, we tracked objects across frames and mapped their paths using color-coded trails.

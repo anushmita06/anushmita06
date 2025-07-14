@@ -43,7 +43,7 @@ A team-based program where I will collaborate with industry partners to solve re
 ###  [FaunaFlow – Animal Movement Tracking with AI](https://devpost.com/software/faunaflow-building-animal-observer-via-point-tracking)
 Built during the Technica Hackathon, FaunaFlow is a computer vision pipeline designed to detect and visualize animal movement in video footage. Using SAM (Segment Anything Model) and CoTracker, we tracked objects across frames and mapped their paths using color-coded trails.
 
-### How to Reach Me:
+## How to Reach Me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushmita.sky@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushmita-dey/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anushmita.dey_/)

@@ -6,7 +6,8 @@ My name is Anushmita Dey, and I am currently a rising sophomore at the Universit
 As a university student, I am majoring in Computer Science and Applied Mathematics 📚. 
 I am also an aspiring Software Engineer that is passionate about AI/ML, data science, and building meaningful tech solutions 💻.
 Currently, I am involved in [Break Through Tech](https://www.breakthroughtech.org/programs/the-ai-program/) and Cornell Tech's AI/ML Fellowship, exploring the development of machine learning models 🧠.
-I am looking for internship experience that will allow me to put my skills to use, as well as provide me with a place to grow as a problem solver!
+Previously, I have interned as a Software Engineer for the FDA, and a UI/UX Designer for U.S News!
+I am looking for further internship experience that will allow me to put my skills to use, as well as provide me with a place to grow as a problem solver!
 
 ## Languages and Tools 🛠️
 

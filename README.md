@@ -5,9 +5,12 @@ My name is Anushmita Dey, and I am currently a rising sophomore at the Universit
 ## A little bit about me...
 As a university student, I am majoring in Computer Science and Applied Mathematics 📚. 
 I am also an aspiring Software Engineer that is passionate about AI/ML, data science, and building meaningful tech solutions 💻.
-Currently, I am involved in [Break Through Tech](https://www.breakthroughtech.org/programs/the-ai-program/) and Cornell Tech's AI/ML Fellowship, exploring the development of machine learning models 🧠.
-Previously, I have interned as a Software Engineer for the FDA, and a UI/UX Designer for U.S News!
-I am looking for further internship experience that will allow me to put my skills to use, as well as provide me with a place to grow as a problem solver!
+
+  📍 Currently involved in [Break Through Tech](https://www.breakthroughtech.org/programs/the-ai-program/) and Cornell Tech's AI/ML Fellowship, exploring the development of machine learning models
+  
+  📍 Former Software Engineering Intern at the FDA and UI/UX Design Intern at U.S. News & World Report.
+  
+I am actively seeking internship opportunities where I can apply my skills, contribute to exciting challenges, and continue growing as a thoughtful and effective problem solver
 
 ## Languages and Tools 🛠️
 
@@ -44,7 +47,7 @@ A team-based program, as part of Break Through Tech's AI/ML Fellowship, where I 
 ###  [FaunaFlow – Animal Movement Tracking with AI](https://devpost.com/software/faunaflow-building-animal-observer-via-point-tracking)
 Built during the Technica Hackathon, FaunaFlow is a computer vision pipeline designed to detect and visualize animal movement in video footage. Using SAM (Segment Anything Model) and CoTracker, we tracked objects across frames and mapped their paths using color-coded trails.
 
-## How to Reach Me:
+## How to Reach Me 📫
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushmita.sky@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushmita-dey/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anushmita.dey_/)

@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there!
 My name is Anushmita Dey, and I am currently a rising sophomore at the University of Maryland, College Park!
 
 

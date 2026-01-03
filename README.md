@@ -8,7 +8,7 @@ I am also an aspiring Software Engineer that is passionate about AI/ML, data sci
 
   📍 Currently involved in [Break Through Tech](https://www.breakthroughtech.org/programs/the-ai-program/) and Cornell Tech's AI/ML Fellowship, exploring the development of machine learning models
   
-  📍 Former Software Engineering Intern at the FDA and UI/UX Design Intern at U.S. News & World Report.
+  📍 Former Software Engineering Intern at the FDA and UI/UX Designer at U.S. News & World Report.
   
 I am actively seeking internship opportunities where I can apply my skills, contribute to exciting challenges, and continue growing as a thoughtful and effective problem solver
 
@@ -41,11 +41,15 @@ I am actively seeking internship opportunities where I can apply my skills, cont
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## Project Experience 💡
-### AI Studio — Upcoming Industry Collaboration Project
-A team-based program, as part of Break Through Tech's AI/ML Fellowship, where I will collaborate with industry partners to solve real-world business challenges using machine learning. Once paired with a company aligned with my skills and interests, I’ll work on large-scale datasets to train, test, and evaluate predictive models
+### [Brain Tumor Segmentation Tool| Children's National Hospital](https://github.com/Pediatric-Accelerated-Intelligence-Lab)
+Developed a full-stack web application for Children's National Hospital through the UMD App Development Club to enable real-time MRI brain tumor segmentation and visualization for clinicians. Integrated React frontend with OHIF viewers, Flask backend with deep learning models, and Docker Compose for containerized deployment across a 15-member technical team.
 
-###  [FaunaFlow – Animal Movement Tracking with AI](https://devpost.com/software/faunaflow-building-animal-observer-via-point-tracking)
-Built during the Technica Hackathon, FaunaFlow is a computer vision pipeline designed to detect and visualize animal movement in video footage. Using SAM (Segment Anything Model) and CoTracker, we tracked objects across frames and mapped their paths using color-coded trails.
+### [Navigating Healthcare Desserts Through Natural Disasters | Snowflake](https://github.com/soujanyakam/Snowflake1D)
+Developed a two-stage ML pipeline (Random Forest + Gradient Boosting) to predict healthcare desert risk in disaster-prone Southeastern U.S. counties, achieving 82% storm classification accuracy and R²~0.80 for risk prediction. Built an interactive Snowflake-powered Streamlit dashboard with geospatial visualizations and Claude Sonnet 4.5 integration to enable targeted resource allocation for vulnerable communities.
+
+
+###  [FaunaFlow, Animal Movement Tracking with AI | Technica](https://devpost.com/software/faunaflow-building-animal-observer-via-point-tracking)
+Developed a computer vision pipeline during the Technica Hackathon to detect and visualize animal movement in video footage, leveraging SAM (Segment Anything Model) for segmentation and CoTracker for multi-frame tracking. Built an automated system that maps animal paths using color-coded trails to enable wildlife behavior analysis and movement pattern visualization.
 
 ## How to Reach Me 📫
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushmita.sky@gmail.com)

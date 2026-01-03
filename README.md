@@ -41,7 +41,7 @@ I am actively seeking internship opportunities where I can apply my skills, cont
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## Project Experience 💡
-### [Brain Tumor Segmentation Tool| Children's National Hospital](https://github.com/Pediatric-Accelerated-Intelligence-Lab)
+### [Brain Tumor Segmentation Tool | Children's National Hospital](https://github.com/Pediatric-Accelerated-Intelligence-Lab)
 Developed a full-stack web application for Children's National Hospital through the UMD App Development Club to enable real-time MRI brain tumor segmentation and visualization for clinicians. Integrated React frontend with OHIF viewers, Flask backend with deep learning models, and Docker Compose for containerized deployment across a 15-member technical team.
 
 ### [Navigating Healthcare Desserts Through Natural Disasters | Snowflake](https://github.com/soujanyakam/Snowflake1D)
